@@ -1,2 +1,2 @@
-# ISP392-Travel-booking-project
-Project for booking tour app
+# ISP392-Home-sharing-project
+Project for home sharing website
